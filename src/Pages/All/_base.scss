@@ -1,0 +1,21 @@
+// COLOR VARIABLES
+$color-primary: #c69963;
+
+
+// FONT VARIABLES
+$font-primary: sans-serif;
+$font-display: 'san serif', sans-serif;
+
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; // 1 rem approximately 10px
+}
